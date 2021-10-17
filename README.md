@@ -17,7 +17,7 @@
  
  5.The all targets
  
-   ![](scrennes/all2.PNG)
+   ![](scrennes/all 1.PNG)
    
    ![](scrennes/all1.PNG)
  
