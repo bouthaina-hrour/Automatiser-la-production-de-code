@@ -124,6 +124,7 @@
    ![](screenes/19.PNG)
    
    ![](screenes/20.PNG)
+   
  18.Command line arguments and override
  
    ![](screenes/21.PNG)
@@ -147,13 +148,14 @@
    ![](screenes/27.PNG)
    
    ![](screenes/28.PNG)
- 21.Pattern-specific variables
+   
+ 22.Pattern-specific variables
    
    ![](screenes/29.PNG)
    
    ![](screenes/30.PNG)
     
- 21.Conditional part of Makefiles
+ 23.Conditional part of Makefiles
  
    - a.Conditional if/else
    
@@ -191,7 +193,7 @@
    ![](screenes/38.PNG)
    
    
- 22.Functions
+ 24.Functions
  
    - a.First Functions
    
@@ -242,7 +244,7 @@
    
    ![](screenes/52.PNG)
    
-  23.Other Features
+  25.Other Features
     
    - a.Multiline
     
