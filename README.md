@@ -107,19 +107,19 @@
    
    ![](screenes/14.PNG)
 
- -  -d.Make a variable with a single space
+   -d.Make a variable with a single space
  
    ![](screenes/15.PNG)
    
    ![](screenes/16.PNG)
    
-    -e.Undefined variables
+   -e.Undefined variables
    
    ![](screenes/17.PNG)
    
    ![](screenes/18.PNG)
    
-    -f.Use += to append
+   -f.Use += to append
    
    ![](screenes/19.PNG)
    
@@ -218,28 +218,50 @@
    ![](screenes/44.PNG)
    
    - e.The foreach fuction
+   
    ![](screenes/45.PNG)
    
    ![](screenes/46.PNG)
    
-    - f.The if function
+   - f.The if function
    
    ![](screenes/47.PNG)
    
    ![](screenes/48.PNG)
    
-    - g.The call function
+   - g.The call function
     
    ![](screenes/49.PNG)
    
    ![](screenes/50.PNG)
    
    
-    - h.The call function
+   - h.The shell function
     
    ![](screenes/51.PNG)
    
    ![](screenes/52.PNG)
+   
+  23.Other Features
+    
+   - a.Multiline
+    
+   ![](screenes/53.PNG)
+   
+   ![](screenes/54.PNG)
+   
+    
+   - b..PHONY
+    
+   ![](screenes/55.PNG)
+   
+   ![](screenes/56.PNG)
+   
+   - c.Delete on error
+    
+   ![](screenes/57.PNG)
+   
+   ![](screenes/58.PNG)
    
    
      
