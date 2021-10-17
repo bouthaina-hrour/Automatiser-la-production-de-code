@@ -1,4 +1,5 @@
 # Automatiser-la-production-de-code
+
  1.Running Makefile
  
   ![](screenes/a1.PNG? "Running Makefile")
@@ -69,11 +70,60 @@
    ![](screenes/2.PNG)
    
  14.Use export for recursive make
-    
-    ![](screenes/1.PNG)
    
-    ![](screenes/2.PNG)
-    
+   ![](screenes/3.PNG)
+   
+   ![](screenes/4.PNG)
+   
+ 15.Export variables to have them run in the shel
+   
+   ![](screenes/5.PNG)
+   
+   ![](screenes/6.PNG)
+   
+ 16.Export all variables
+   
+   ![](screenes/7.PNG)
+   
+   ![](screenes/8.PNG)
+   
+ 17.Flavors and modification
+   
+   a.Recursive and simply expanded flavors of variables
+ 
+   ![](screenes/9.PNG)
+   
+   ![](screenes/10.PNG)
+   
+   b.Use simply expanded to append to a variable
+ 
+   ![](screenes/11.PNG)
+   
+   ![](screenes/12.PNG)
+   
+   c.Sets variables with ?= 
+ 
+   ![](screenes/13.PNG)
+   
+   ![](screenes/14.PNG)
+
+   d.Make a variable with a single space
+ 
+   ![](screenes/15.PNG)
+   
+   ![](screenes/16.PNG)
+   
+   e.Undefined variables
+   
+   ![](screenes/17.PNG)
+   
+   ![](screenes/18.PNG)
+   
+   f.Use += to append
+   
+   ![](screenes/19.PNG)
+   
+   ![](screenes/20.PNG)
  
  
   
