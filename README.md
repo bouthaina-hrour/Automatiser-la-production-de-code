@@ -1,37 +1,70 @@
 # Automatiser-la-production-de-code
  1.Running Makefile
  
-  ![](scrennes/a1.PNG? "Running Makefile")
+  ![](screenes/a1.PNG? "Running Makefile")
 
  2.Makefile targets
  
-   ![](scrennes/a2.PNG)
+   ![](screenes/a2.PNG)
    
  3.Makefile targets
  
-   ![](scrennes/a4.PNG)
+   ![](screenes/a4.PNG)
    
  4.make clean
  
-   ![](scrennes/a5.PNG)
+   ![](screenes/a5.PNG)
  
- 5.The all targets
+ 5.Variables
  
-   ![](scrennes/all 1.PNG)
+   ![](screenes/variables2.PNG)
+   ![](screenes/variables1.PNG)
+ 
+ 6.The all targets
+ 
+   ![](screenes/all-2.PNG)
    
-   ![](scrennes/all1.PNG)
- 
- 2.Makefile targets
- 
-   ![](scrennes/a2.PNG)
+   ![](screenes/all-1.PNG)
    
- 2.Makefile targets
- 
-   ![](scrennes/a2.PNG)
+ 7.Multiple targets
+  
+   ![](screenes/multipletargets1.PNG)
    
- 2.Makefile targets
+   ![](screenes/multipletargets2.PNG)
+   
+ 8.Multiple targets
+  
+   ![](screenes/multipletargets1.PNG)
+   
+   ![](screenes/multipletargets2.PNG)
  
-   ![](scrennes/a2.PNG)
+ 9.Automatic Variables
+ 
+   ![](screenes/automatic-v1.PNG)
+   
+   ![](screenes/automatic-v2.PNG)
+   
+ 10.Static Pattern Rules
+     
+   ![](screenes/staticpattern1.PNG)
+   
+   ![](screenes/staticpattern2.PNG)
+   
+ 10.Command Execution
+ 
+   ![](screenes/cmdexecution1.PNG)
+   
+   ![](screenes/cmdexecution2.PNG)
+ 
+ 8.Change Default Shell
+ 
+   ![](screenes/change-default-shell.PNG)
+   
+   ![](screenes/changedefaultshell2.PNG)
+   
+ 9.Makefile targets
+ 
+   ![](screenes/a2.PNG)
   
           
          
