@@ -46,7 +46,7 @@
    
  10.Static Pattern Rules
      
-   ![](screenes/staticpattern1.PNG)
+   ![](screenes/staticpatternruls1.PNG)
    
    ![](screenes/staticpattern2.PNG)
    
