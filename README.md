@@ -1,6 +1,6 @@
 # Automatiser-la-production-de-code
 
- 1.Running Makefile
+ 1.Running a Makefile
  
   ![](screenes/a1.PNG? "Running Makefile")
 
