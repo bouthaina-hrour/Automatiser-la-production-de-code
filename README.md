@@ -89,37 +89,37 @@
    
  17.Flavors and modification
    
-   -a.Recursive and simply expanded flavors of variables
+   - a.Recursive and simply expanded flavors of variables
  
    ![](screenes/9.PNG)
    
    ![](screenes/10.PNG)
    
-  -b.Use simply expanded to append to a variable
+  - b.Use simply expanded to append to a variable
  
    ![](screenes/11.PNG)
    
    ![](screenes/12.PNG)
    
-   -c.Sets variables with ?= 
+   - c.Sets variables with ?= 
  
    ![](screenes/13.PNG)
    
    ![](screenes/14.PNG)
 
-   -d.Make a variable with a single space
+   - d.Make a variable with a single space
  
    ![](screenes/15.PNG)
    
    ![](screenes/16.PNG)
    
-   -e.Undefined variables
+   - e.Undefined variables
    
    ![](screenes/17.PNG)
    
    ![](screenes/18.PNG)
    
-   -f.Use += to append
+   - f.Use += to append
    
    ![](screenes/19.PNG)
    
