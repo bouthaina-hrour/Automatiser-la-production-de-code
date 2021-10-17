@@ -223,7 +223,7 @@
    
    - h.The shell function
     
-   ![](screenes/51.PNG)
+   ![](screenes/50.PNG)
    
    ![](screenes/52.PNG)
    
