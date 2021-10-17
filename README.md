@@ -70,9 +70,9 @@
    
  14.Use export for recursive make
     
-    ![](screenes/3.PNG)
+    ![](screenes/1.PNG)
    
-    ![](screenes/4.PNG)
+    ![](screenes/2.PNG)
     
  
  
