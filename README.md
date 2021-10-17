@@ -164,6 +164,7 @@
    ![](screenes/32.PNG)
    
    - c.Check if a variable is defined
+   - 
    ![](screenes/33.PNG)
    
    ![](screenes/34.PNG)
