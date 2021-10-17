@@ -137,63 +137,45 @@
    
    ![](screenes/24.PNG)
    
-  20.List of commands and define
- 
+ 20.Target-specific variables
+   
    ![](screenes/25.PNG)
    
    ![](screenes/26.PNG)
    
- 21.Target-specific variables
+ 21.Pattern-specific variables
    
    ![](screenes/27.PNG)
    
    ![](screenes/28.PNG)
-   
- 22.Pattern-specific variables
+    
+ 22.Conditional part of Makefiles
+ 
+   - a.Conditional if/else
    
    ![](screenes/29.PNG)
    
    ![](screenes/30.PNG)
     
- 23.Conditional part of Makefiles
- 
-   - a.Conditional if/else
+   - b.Check if a variable is empty
    
    ![](screenes/31.PNG)
    
    ![](screenes/32.PNG)
-    
-   - b.Conditional if/else
    
-   ![](screenes/33.PNG)
-   
-   ![](screenes/34.PNG)
-    
-   - c.Check if a variable is empty
-   
+   - c.Check if a variable is defined
    ![](screenes/33.PNG)
    
    ![](screenes/34.PNG)
    
-    - c.Check if a variable is empty
+    - e.$(makeflags)
    
-   ![](screenes/33.PNG)
-   
-   ![](screenes/34.PNG)
-   
-    - d.Check if a variable is defined
    ![](screenes/35.PNG)
    
    ![](screenes/36.PNG)
    
-     - e.$(makeflags)
    
-   ![](screenes/37.PNG)
-   
-   ![](screenes/38.PNG)
-   
-   
- 24.Functions
+ 23.Functions
  
    - a.First Functions
    
@@ -244,7 +226,7 @@
    
    ![](screenes/52.PNG)
    
-  25.Other Features
+  24.Other Features
     
    - a.Multiline
     
