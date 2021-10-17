@@ -46,25 +46,36 @@
    
  10.Static Pattern Rules
      
-   ![](screenes/staticpatternruls1.PNG)
+   ![](screenes/staticpatternrules1.PNG)
    
    ![](screenes/staticpattern2.PNG)
    
- 10.Command Execution
+ 11.Command Execution
  
    ![](screenes/cmdexecution1.PNG)
    
    ![](screenes/cmdexecution2.PNG)
  
- 8.Change Default Shell
+ 12.Change Default Shell
  
    ![](screenes/change-default-shell.PNG)
    
    ![](screenes/changedefaultshell2.PNG)
    
- 9.Makefile targets
+ 13.Recursive use of make
  
-   ![](screenes/a2.PNG)
+   ![](screenes/1.PNG)
+   
+   ![](screenes/2.PNG)
+   
+ 14.Use export for recursive make
+    
+    ![](screenes/3.PNG)
+   
+    ![](screenes/4.PNG)
+    
+ 
+ 
   
           
          
