@@ -253,9 +253,57 @@
   
   1-Create a projet
   
-   ![](screenes/creating project.PNG)
+   ![](screenes/creatingproject.PNG)
+  
+  2-Build the Project
    
-     
+   ![](screenes/build.PNG)
+   
+  3-Clean a project
+    
+   ![mvnclean](https://user-images.githubusercontent.com/73646814/138285289-8ac53182-0caa-4818-bbf2-5c0935ab2cf6.PNG)
+  
+  4-Compile a project
+    
+   ![](screenes/butcompile.PNG)
+   
+  5-Package a project
+  
+   ![](screenes/mvnpackage1.PNG)
+   
+   ![](screenes/mvnpackage2.PNG)
+   
+  6-Test a newly compiled and packaged JAR
+  
+   ![](screenes/helloworld.PNG)
+   
+  7-Execute phases and goals in sequence
+  
+   ![](screenes/phasesinsequence.PNG)
+ 
+  8-Clean and copy dependencies
+ 
+   ![cleanandcopydependencies](https://user-images.githubusercontent.com/73646814/138290715-e0c7a819-1b81-42b1-b369-b3b434b4f1e4.PNG)
+
+  
+  9-Generating the Site
+   
+   ![](screenes/mvnsite.PNG)
+   
+   ![](screenes/siteofmyapp.PNG)
+   
+  10-Le plugin maven-help-plugin
+ 
+   ![](screenes/mvnhelpeffectivepom.PNG)
+   
+   ![](screenes/ep1.PNG)
+   
+   ![](screenes/ep2.PNG)
+   
+  11-Le plugin maven-compiler-plugin
+  
+   ![](screenes/validatecompiletest.PNG)
+   
  
  
   
