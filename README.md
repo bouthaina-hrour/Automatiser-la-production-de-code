@@ -304,6 +304,32 @@
   
    ![](screenes/validatecompiletest.PNG)
    
+  12-Packaage project into 4 jars
+  
+   ![](screenes/jars.PNG)
+  
+     a- JavaDoc jar
+     
+   ![](screenes/javadoc1.PNG)
+   
+   ![](screenes/javadoc2.PNG)
+   
+   ![](screenes/javadoc3.PNG)
+   
+     b- Sources jar
+     
+   ![](screenes/source1.PNG)
+    
+   ![](screenes/source2.PNG)
+   
+    c- Executable jar with dependencies
+    
+   ![](screenes/dependency1.PNG) 
+   
+   ![](screenes/dependency2.PNG)
+   
+   ![](screenes/dependency3.PNG)
+   
  
  
   
