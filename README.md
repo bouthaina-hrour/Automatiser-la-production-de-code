@@ -1,5 +1,7 @@
 # Automatiser-la-production-de-code
 
+## I.MAKE
+
  1.Running a Makefile
  
   ![](screenes/a1.PNG? "Running Makefile")
@@ -247,7 +249,11 @@
    ![](screenes/57.PNG)
    
    ![](screenes/58.PNG)
-   
+  ## II.MAVEN 
+  
+  1-Create a projet
+  
+   ![](screenes/creating project.PNG)
    
      
  
