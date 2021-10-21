@@ -331,6 +331,9 @@
    ![](screenes/dependency3.PNG)
    
    ![](screenes/dependency4.PNG)
+   
+   13- le pluging gpg sert à signer tous les artefacts attachés au projet avec GnuPG (GPG est l'acronyme de GNU Privacy Guard. Application qui permet le chiffrement et la signature de données.)
+   - Son exécution est configuré dans la phase du déployement.
  
   
           
