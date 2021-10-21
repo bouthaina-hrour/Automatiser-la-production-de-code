@@ -1,0 +1,46 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'D:/Drivers/Git/Test/Automatiser-la-production-de-code/my-app/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Drivers/Git/Test/Automatiser-la-production-de-code/my-app/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'my-app 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'D:/Drivers/Git/Test/Automatiser-la-production-de-code/my-app/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'my-app 1.0-SNAPSHOT API'
+com.mycompany.app
+'D:/Drivers/Git/Test/Automatiser-la-production-de-code/my-app/src/main/java/com/mycompany/app/App.java'
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\src\main\java = 1634820539920
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\target\apidocs\allclasses-index.html = 1634827573174
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\target\apidocs\allpackages-index.html = 1634827573185
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\target\apidocs\element-list = 1634827573128
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\target\apidocs\help-doc.html = 1634827573211
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\target\apidocs\index-all.html = 1634827573204
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\target\apidocs\index.html = 1634827573206
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\target\apidocs\jquery-ui.overrides.css = 1634827573275
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\target\apidocs\member-search-index.js = 1634827573191
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\target\apidocs\module-search-index.js = 1634827573187
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\target\apidocs\overview-tree.html = 1634827573166
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\target\apidocs\package-search-index.js = 1634827573188
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\target\apidocs\script.js = 1634827573219
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\target\apidocs\search.js = 1634827573223
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\target\apidocs\stylesheet.css = 1634827573214
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\target\apidocs\tag-search-index.js = 1634827573193
+D:\Drivers\Git\Test\Automatiser-la-production-de-code\my-app\target\apidocs\type-search-index.js = 1634827573190
